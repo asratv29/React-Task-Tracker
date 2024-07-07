@@ -1,7 +1,8 @@
 <<<<<<< HEAD
 # React-Task-Tracker
 React task tracker app 
-allow you to add task, delete a task
+allow you to add task, delete a task, do not forget to run json server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
